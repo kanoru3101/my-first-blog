@@ -3,8 +3,5 @@ __pycache__
 db.sqlite3
 .DS_Store
 /.virtual/
-<<<<<<< HEAD
-/virtual/
-=======
-/virtual/
->>>>>>> d080bea7c395f6d826b03d35ab0b558144748e90
+virtual
+
